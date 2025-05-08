@@ -1,0 +1,11 @@
+resena,sentimiento,resena_limpia,sentimiento_detectado
+La batería de este teléfono es excelente y dura todo el día.,positivo,batería teléfono excelente dura día,positivo
+"El envío fue muy lento, estoy decepcionado.",negativo,envío lento decepcionado,negativo
+"Buen producto, cumple con lo que promete.",positivo,buen producto cumple promete,positivo
+"La calidad de la pantalla no es la mejor, esperaba más.",negativo,calidad pantalla mejor esperaba,neutro
+El servicio al cliente fue maravilloso.,positivo,servicio cliente maravilloso,positivo
+"No me gustó el color, se ve diferente a la imagen.",negativo,gustó color ve diferente imagen,neutro
+El precio es muy accesible para la calidad ofrecida.,positivo,precio accesible calidad ofrecida,positivo
+"La conexión Wi-Fi falla constantemente, muy frustrante.",negativo,conexión wifi falla constantemente frustrante,negativo
+Muy fácil de usar y configurar.,positivo,fácil usar configurar,positivo
+El empaque llegó dañado aunque el producto estaba bien.,negativo,empaque llegó dañado aunque producto bien,negativo
