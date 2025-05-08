@@ -21,7 +21,6 @@ def limpiar_texto(texto):
     texto = re.sub(r'\d+', '', texto)
     texto = re.sub(r'\s+', ' ', texto).strip()
 
-    # Eliminar stopwords
     palabras = texto.split()
     palabras_limpias = [palabra for palabra in palabras if palabra not in stop_words]
  
